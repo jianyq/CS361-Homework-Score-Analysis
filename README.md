@@ -40,7 +40,7 @@ LSTM is a type of recurrent neural network (RNN) which is capable of learning lo
   - Best_Accuracy: 0.7289
   - Epoch: 80000
 - on Validation Set:
-  - Accuracy: 0.9412
+  - Best_Accuracy: 0.9412
   - Epoch: 1000
 
 ## Datasets

@@ -1,8 +1,7 @@
-Certainly! Below is a sample `README.md` file based on your notebooks:
 
----
 
-# Predicting Midterm Scores
+# CS361-Homework-Score-Analysis
+
 
 This project aims to predict students' midterm scores based on their homework scores using two different machine learning models: Linear Regression and Long Short-Term Memory (LSTM).
 
